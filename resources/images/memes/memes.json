@@ -96,5 +96,18 @@
 		"height": 568,
 		"textSize": 28,
 		"textAreas": [[469, 385]]
+	},
+	"death": {
+		"url": "death.jpg",
+		"width": 800,
+		"height": 450,
+		"textSize": 28,
+		"textAreas": [
+			[60, 160],
+			[180, 130],
+			[380, 100],
+			[550, 270],
+			[700, 190]
+		]
 	}
 }
