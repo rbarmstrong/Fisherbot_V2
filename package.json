@@ -15,7 +15,9 @@
     "eslint": "^6.8.0"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "pmstart": "pm2 start ecosystem.config.js",
+    "pmstop": "pm2 stop ecosystem.config.js"
   },
   "author": "Itai Fish",
   "license": "MIT"
